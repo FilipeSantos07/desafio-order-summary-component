@@ -125,3 +125,11 @@ section {
 .payment-section a:nth-child(2):hover {
     color: hsl(223, 47%, 23%);
 }
+@media only screen and (max-width:375px) {
+    .div-section {
+        padding-left: 23px;
+    }
+    .section-plan a {
+        padding-right: 28px;
+    }
+    }
