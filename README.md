@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-> Desafio do site frontend mentor
+> Desafio do site Frontend Mentor
 
 Meu terceiro desafio realizado com sucesso do site Frontend Mentor. Amei o resultado! 
 
