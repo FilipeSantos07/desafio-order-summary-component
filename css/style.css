@@ -96,6 +96,7 @@ section {
     display: flex;
     flex-direction: column;
     gap: 17px;
+    padding-bottom: 43px;
 }
 .payment-section a:nth-child(1) {
     color: hsl(225, 100%, 98%);
@@ -119,8 +120,8 @@ section {
     font-weight: 900;
     font-size: 0.8rem;
     text-align: center;
+    margin: 10px 140px 0 140px;
     margin-top: 10px;
-    padding-bottom: 43px;
 }
 .payment-section a:nth-child(2):hover {
     color: hsl(223, 47%, 23%);
