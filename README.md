@@ -6,7 +6,7 @@
 
 Meu terceiro desafio realizado com sucesso do site Frontend Mentor. Amei o resultado! 
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://filipesantos07.github.io/desafio-order-summary-component/)
 
 ## 🛠️ Tecnologias
 
