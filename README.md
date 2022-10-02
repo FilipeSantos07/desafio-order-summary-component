@@ -15,4 +15,4 @@ Meu terceiro desafio realizado com sucesso do site Frontend Mentor. Nesse projet
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
